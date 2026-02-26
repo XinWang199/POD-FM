@@ -1,2 +1,3 @@
 # POD-FM
-This repository is reserved for the open-source code of our research work. The full implementation will be organized and made publicly available upon the acceptance of the associated paper. We appreciate your patience and interest!
+Taking Pipe as an example, first run python train_Pipe.py to train the FM model, then run python sample_Pipe.py to test the pure FM model. 
+If you want to train and test the POD-FM model, you need to run python train_Pipe_8rank.py and python sample_Pipe_8rank.py.
