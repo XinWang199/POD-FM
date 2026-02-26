@@ -91,11 +91,12 @@ This project is licensed under the terms of the [LICENSE](./LICENSE) file includ
 ---
 
 ## 📬 Citation
-
-> The citation information will be updated upon the acceptance and publication of the associated paper. Stay tuned!
-
----
-
-## 🙏 Acknowledgements
-
-We appreciate your interest in this work. The complete implementation, documentation, and reproducibility scripts will be released upon paper acceptance.
+@article{wang2026flow,
+  title={Flow matching with gappy proper orthogonal decomposition guidance for balanced global field reconstruction},
+  author={Wang, Xin and Li, Dali and Zhang, Laiping and Deng, Xiaogang},
+  journal={Physics of Fluids},
+  volume={38},
+  number={2},
+  year={2026},
+  publisher={AIP Publishing}
+}
