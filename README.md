@@ -91,6 +91,7 @@ This project is licensed under the terms of the [LICENSE](./LICENSE) file includ
 ---
 
 ## 📬 Citation
+```bash
 @article{wang2026flow,
   title={Flow matching with gappy proper orthogonal decomposition guidance for balanced global field reconstruction},
   author={Wang, Xin and Li, Dali and Zhang, Laiping and Deng, Xiaogang},
@@ -100,3 +101,4 @@ This project is licensed under the terms of the [LICENSE](./LICENSE) file includ
   year={2026},
   publisher={AIP Publishing}
 }
+```
