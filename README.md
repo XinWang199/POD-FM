@@ -1,10 +1,10 @@
 # POD-FM
 
-> **Note:** This repository is reserved for the open-source code of our research work. The full implementation will be organized and made publicly available upon the acceptance of the associated paper. We appreciate your patience and interest!
+> **Note:** This repository is reserved for the open-source code of our research work "Flow matching with gappy proper orthogonal decomposition guidance for balanced global field reconstruction".
 
 ## 📖 Overview
 
-**POD-FM** is a research framework that combines **Proper Orthogonal Decomposition (POD)** with **Flow Matching (FM)** for fluid dynamics simulation. The framework supports multiple benchmark cases including **Pipe flow**, **Cylinder flow**, and **SST (Shear Stress Transport)** scenarios, with both standard and POD-reduced-order versions.
+**POD-FM** is a research framework that combines **Proper Orthogonal Decomposition (POD)** with **Flow Matching (FM)** for field reconstruction. The framework supports multiple benchmark cases including **Pipe flow**, **Cylinder flow**, and **SST (Sea Surface Temperature)** scenarios, with both FM and POD-FM versions.
 
 ---
 
@@ -37,13 +37,12 @@ POD-FM/
 
 ### Prerequisites
 
-- Python 3.8+
-- PyTorch (recommended ≥ 1.12)
+- PyTorch 2.5.1
 - NumPy, SciPy, and other standard scientific computing libraries
 
-> Detailed dependency installation instructions will be provided upon paper acceptance.
+### Dowmload dataset
 
----
+Download the data from Link **https://drive.google.com/drive/folders/1IG6hxv6b20gBhDsZ4U766YqSLGF8iF3X?usp=sharing** to the data directory.
 
 ### Usage
 
