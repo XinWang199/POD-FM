@@ -1,0 +1,5 @@
+Dataset files need to be placed in this directory.
+————ch_2Dxysec.pickle for pipe
+————Cy_Taira.pickle for cylinder
+————sst1993_2019.bhwc.f32.npy for sst train
+————sst2020_2021.bhwc.f32.npy for sst test
